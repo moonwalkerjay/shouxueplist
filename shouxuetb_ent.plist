@@ -32,7 +32,7 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.baiyou.shouxueenterpriseios.tb</string>
+               <string>com.baiyou.shouxueios.tb</string>
                <key>bundle-version</key>
                <string>1.3.114</string>
                <key>kind</key>
